@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/hokamfolio/static/css/main.775cfafb.css",
+    "main.js": "/hokamfolio/static/js/main.cbaf2c35.js",
+    "static/js/453.abff56ce.chunk.js": "/hokamfolio/static/js/453.abff56ce.chunk.js",
+    "index.html": "/hokamfolio/index.html",
+    "main.775cfafb.css.map": "/hokamfolio/static/css/main.775cfafb.css.map",
+    "main.cbaf2c35.js.map": "/hokamfolio/static/js/main.cbaf2c35.js.map",
+    "453.abff56ce.chunk.js.map": "/hokamfolio/static/js/453.abff56ce.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.775cfafb.css",
+    "static/js/main.cbaf2c35.js"
+  ]
+}
