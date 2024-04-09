@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/hokamfolio/static/css/main.775cfafb.css",
-    "main.js": "/hokamfolio/static/js/main.b6f24abc.js",
-    "static/js/453.abff56ce.chunk.js": "/hokamfolio/static/js/453.abff56ce.chunk.js",
-    "index.html": "/hokamfolio/index.html",
-    "main.775cfafb.css.map": "/hokamfolio/static/css/main.775cfafb.css.map",
-    "main.b6f24abc.js.map": "/hokamfolio/static/js/main.b6f24abc.js.map",
-    "453.abff56ce.chunk.js.map": "/hokamfolio/static/js/453.abff56ce.chunk.js.map"
+    "main.css": "/static/css/main.775cfafb.css",
+    "main.js": "/static/js/main.f6e69f93.js",
+    "static/js/453.abff56ce.chunk.js": "/static/js/453.abff56ce.chunk.js",
+    "index.html": "/index.html",
+    "main.775cfafb.css.map": "/static/css/main.775cfafb.css.map",
+    "main.f6e69f93.js.map": "/static/js/main.f6e69f93.js.map",
+    "453.abff56ce.chunk.js.map": "/static/js/453.abff56ce.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.775cfafb.css",
-    "static/js/main.b6f24abc.js"
+    "static/js/main.f6e69f93.js"
   ]
 }
